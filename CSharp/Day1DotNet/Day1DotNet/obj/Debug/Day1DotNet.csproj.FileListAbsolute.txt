@@ -1,0 +1,2 @@
+D:\infinite\CSharp\Day1DotNet\Day1DotNet\obj\Debug\Day1DotNet.csproj.AssemblyReference.cache
+D:\infinite\CSharp\Day1DotNet\Day1DotNet\obj\Debug\Day1DotNet.csproj.CoreCompileInputs.cache
