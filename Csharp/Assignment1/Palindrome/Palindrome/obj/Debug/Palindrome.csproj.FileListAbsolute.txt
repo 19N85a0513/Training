@@ -1,0 +1,2 @@
+D:\infinite\Csharp\Assignment1\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+D:\infinite\Csharp\Assignment1\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
